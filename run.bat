@@ -1,2 +1,2 @@
-set classpath=C:\Users\jagrelot\workspace\Introduction\bin;C:\Users\jagrelot\workspace\Introduction\libs\*
+set classpath = SeleniumDemo/run.bat
 java org.testng.TestNG testng.xml
